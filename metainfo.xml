@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<presentation guid="CD987E32-6EEF-47AC-98C0-B415BC5C0E33" version="0" availableOffline="1">
+	<info>
+		<title>examen 2 unité 3 première année</title>
+		<description/>
+	</info>
+	<files index="id18" thumbnail="id44" totalSize="4495567">
+		<file id="id0">data/thmb1.png</file>
+		<file id="id1">data/slide1.js</file>
+		<file id="id2">data/slide1.css</file>
+		<file id="id3">data/thmb2.png</file>
+		<file id="id4">data/quiz1.js</file>
+		<file id="id5">data/quiz1/audios/snd-345d4018792df08f2ad07d0b1dccd59d1e8b7eb7.mp3</file>
+		<file id="id6">data/quiz1/audios/snd-c738de6d5d4e30cafc31a0f373174f0b70d5c4aa.mp3</file>
+		<file id="id7">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id8">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id9">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id10">data/quiz1/fonts/fnt3.woff</file>
+		<file id="id11">data/quiz1/fonts/fnt4.woff</file>
+		<file id="id12">data/quiz1/fonts/fnt5.woff</file>
+		<file id="id13">data/quiz1/fonts/fnt6.woff</file>
+		<file id="id14">data/quiz1/images/d83f-8a20-405f-32d2.png</file>
+		<file id="id15">data/quiz1/images/img-4e7756e3220fe7c9679e322a9e7ee96851cd0927.png</file>
+		<file id="id16">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id17">data/quizplayer.js</file>
+		<file id="id18">index.html</file>
+		<file id="id19">data/player.js</file>
+		<file id="id24">data/browsersupport.js</file>
+		<file id="id25">data/apple-touch-icon.png</file>
+		<file id="id26">data/favicon.ico</file>
+		<file id="id27">data/fnt0.woff</file>
+		<file id="id28">data/fnt1.woff</file>
+		<file id="id29">data/fnt2.woff</file>
+		<file id="id30">data/fnt3.woff</file>
+		<file id="id31">data/fnt4.woff</file>
+		<file id="id32">data/fnt5.woff</file>
+		<file id="id33">data/fnt6.woff</file>
+		<file id="id34">data/fnt7.woff</file>
+		<file id="id35">data/fnt8.woff</file>
+		<file id="id36">data/html5-unsupported.html</file>
+		<file id="id37">data/html5.png</file>
+		<file id="id38">data/img0.png</file>
+		<file id="id39">data/img1.png</file>
+		<file id="id40">data/img2.png</file>
+		<file id="id41">data/img3.png</file>
+		<file id="id42">data/logo1.png</file>
+		<file id="id43">data/photo1.png</file>
+		<file id="id44">data/ismplayer/preview.png</file>
+		<file id="id45">data/ismplayer/play.svg</file>
+		<file id="id46">data/ismplayer/style.css</file>
+		<file id="id47">data/ismplayer/style_mini.css</file>
+		<file id="id48">ismplayer.html</file>
+		<file id="id49">data/ismplayer/app_store2x.png</file>
+		<file id="id50">metainfo.xml</file>
+	</files>
+</presentation>
